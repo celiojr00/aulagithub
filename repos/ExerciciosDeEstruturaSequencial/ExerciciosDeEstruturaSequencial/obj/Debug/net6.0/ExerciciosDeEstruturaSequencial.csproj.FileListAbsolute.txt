@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\bin\Debug\net6.0\ExerciciosDeEstruturaSequencial.exe
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\bin\Debug\net6.0\ExerciciosDeEstruturaSequencial.deps.json
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\bin\Debug\net6.0\ExerciciosDeEstruturaSequencial.runtimeconfig.json
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\bin\Debug\net6.0\ExerciciosDeEstruturaSequencial.dll
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\bin\Debug\net6.0\ExerciciosDeEstruturaSequencial.pdb
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.AssemblyInfo.cs
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.dll
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\refint\ExerciciosDeEstruturaSequencial.dll
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.pdb
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ExerciciosDeEstruturaSequencial.genruntimeconfig.cache
+C:\Users\celio\source\repos\ExerciciosDeEstruturaSequencial\ExerciciosDeEstruturaSequencial\obj\Debug\net6.0\ref\ExerciciosDeEstruturaSequencial.dll

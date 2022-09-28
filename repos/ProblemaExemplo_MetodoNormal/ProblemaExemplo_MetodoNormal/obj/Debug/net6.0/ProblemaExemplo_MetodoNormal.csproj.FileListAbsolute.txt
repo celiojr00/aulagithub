@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.AssemblyInfo.cs
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\bin\Debug\net6.0\ProblemaExemplo_MetodoNormal.exe
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\bin\Debug\net6.0\ProblemaExemplo_MetodoNormal.deps.json
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\bin\Debug\net6.0\ProblemaExemplo_MetodoNormal.runtimeconfig.json
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\bin\Debug\net6.0\ProblemaExemplo_MetodoNormal.dll
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\bin\Debug\net6.0\ProblemaExemplo_MetodoNormal.pdb
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.dll
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\refint\ProblemaExemplo_MetodoNormal.dll
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.pdb
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ProblemaExemplo_MetodoNormal.genruntimeconfig.cache
+C:\Users\celio\source\repos\ProblemaExemplo_MetodoNormal\ProblemaExemplo_MetodoNormal\obj\Debug\net6.0\ref\ProblemaExemplo_MetodoNormal.dll

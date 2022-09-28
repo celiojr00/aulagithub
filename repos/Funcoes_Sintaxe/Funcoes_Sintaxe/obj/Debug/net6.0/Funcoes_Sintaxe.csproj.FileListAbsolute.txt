@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.exe
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.deps.json
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.runtimeconfig.json
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.dll
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.pdb
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.AssemblyInfo.cs
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.dll
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\refint\Funcoes_Sintaxe.dll
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.pdb
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.genruntimeconfig.cache
+C:\Users\celio\source\repos\Funcoes_Sintaxe\Funcoes_Sintaxe\obj\Debug\net6.0\ref\Funcoes_Sintaxe.dll

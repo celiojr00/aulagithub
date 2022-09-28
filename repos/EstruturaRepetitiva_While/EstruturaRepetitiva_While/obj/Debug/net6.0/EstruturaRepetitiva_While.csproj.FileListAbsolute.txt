@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\bin\Debug\net6.0\EstruturaRepetitiva_While.exe
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\bin\Debug\net6.0\EstruturaRepetitiva_While.deps.json
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\bin\Debug\net6.0\EstruturaRepetitiva_While.runtimeconfig.json
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\bin\Debug\net6.0\EstruturaRepetitiva_While.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\bin\Debug\net6.0\EstruturaRepetitiva_While.pdb
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.AssemblyInfo.cs
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\refint\EstruturaRepetitiva_While.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.pdb
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\EstruturaRepetitiva_While.genruntimeconfig.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_While\EstruturaRepetitiva_While\obj\Debug\net6.0\ref\EstruturaRepetitiva_While.dll

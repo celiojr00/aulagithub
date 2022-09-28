@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\bin\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.exe
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\bin\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.deps.json
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\bin\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.runtimeconfig.json
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\bin\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.dll
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\bin\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.pdb
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.AssemblyInfo.cs
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.dll
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\refint\Exercicio1_Aula_OrientadaObjeto.dll
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.pdb
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\Exercicio1_Aula_OrientadaObjeto.genruntimeconfig.cache
+C:\Users\celio\source\repos\Exercicio1_Aula_OrientadaObjeto\Exercicio1_Aula_OrientadaObjeto\obj\Debug\net6.0\ref\Exercicio1_Aula_OrientadaObjeto.dll

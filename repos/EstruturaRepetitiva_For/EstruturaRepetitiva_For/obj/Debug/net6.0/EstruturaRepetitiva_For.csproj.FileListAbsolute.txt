@@ -1,0 +1,15 @@
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\bin\Debug\net6.0\EstruturaRepetitiva_For.exe
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\bin\Debug\net6.0\EstruturaRepetitiva_For.deps.json
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\bin\Debug\net6.0\EstruturaRepetitiva_For.runtimeconfig.json
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\bin\Debug\net6.0\EstruturaRepetitiva_For.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\bin\Debug\net6.0\EstruturaRepetitiva_For.pdb
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.csproj.AssemblyReference.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.AssemblyInfoInputs.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.AssemblyInfo.cs
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.csproj.CoreCompileInputs.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\refint\EstruturaRepetitiva_For.dll
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.pdb
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\EstruturaRepetitiva_For.genruntimeconfig.cache
+C:\Users\celio\source\repos\EstruturaRepetitiva_For\EstruturaRepetitiva_For\obj\Debug\net6.0\ref\EstruturaRepetitiva_For.dll
